@@ -1,0 +1,36 @@
+customer_id,customer_name,purchase_date,product_id,product_name,product_category,quantity,unit_price,total_amount
+1001,John Doe,2026-05-01,P001,Laptop,Electronics,1,850.00,850.00
+1002,Jane Smith,2026-05-02,P002,T-Shirt,Clothing,3,20.00,60.00
+1003,David James,2026-05-03,P003,Rice,Grocery,2,35.00,70.00
+1004,Sarah Johnson,2026-05-03,P004,Smartphone,Electronics,1,650.00,650.00
+1005,Michael Brown,2026-05-04,P005,Sneakers,Footwear,2,75.00,150.00
+1006,Emily Wilson,2026-05-04,P006,Cooking Oil,Grocery,4,15.00,60.00
+1007,Daniel Thomas,2026-05-05,P007,Headphones,Electronics,2,45.00,90.00
+1008,Olivia Taylor,2026-05-05,P008,Jeans,Clothing,2,40.00,80.00
+1009,James Anderson,2026-05-06,P009,Milk,Grocery,6,4.50,27.00
+1010,Sophia Martinez,2026-05-06,P010,Television,Electronics,1,1200.00,1200.00
+1011,William Harris,2026-05-07,P011,Bread,Grocery,5,2.50,12.50
+1012,Ava Clark,2026-05-07,P012,Office Chair,Furniture,1,180.00,180.00
+1013,Benjamin Lewis,2026-05-08,P013,Keyboard,Electronics,2,30.00,60.00
+1014,Charlotte Walker,2026-05-08,P014,Notebook,Stationery,10,3.50,35.00
+1015,Henry Hall,2026-05-09,P015,Water Bottle,Home Essentials,4,12.00,48.00
+1016,Amelia Young,2026-05-09,P016,Printer,Electronics,1,220.00,220.00
+1017,Lucas Allen,2026-05-10,P017,Backpack,Bags,2,55.00,110.00
+1018,Mia King,2026-05-10,P018,Soap,Grocery,8,2.00,16.00
+1019,Ethan Wright,2026-05-11,P019,Desk,Furniture,1,250.00,250.00
+1020,Harper Scott,2026-05-11,P020,Mouse,Electronics,3,18.00,54.00
+1021,John Doe,2026-05-12,P021,USB Flash Drive,Electronics,5,12.00,60.00
+1022,Jane Smith,2026-05-12,P022,Coffee Maker,Home Appliances,1,95.00,95.00
+1023,David James,2026-05-13,P023,Sugar,Grocery,3,6.50,19.50
+1024,Sarah Johnson,2026-05-13,P024,Dress,Clothing,2,65.00,130.00
+1025,Michael Brown,2026-05-14,P025,Football,Sports,1,35.00,35.00
+1026,Emily Wilson,2026-05-14,P026,Blender,Home Appliances,1,85.00,85.00
+1027,Daniel Thomas,2026-05-15,P027,Monitor,Electronics,2,240.00,480.00
+1028,Olivia Taylor,2026-05-15,P028,Pen Set,Stationery,6,5.00,30.00
+1029,James Anderson,2026-05-16,P029,Chocolate,Grocery,10,3.00,30.00
+1030,Sophia Martinez,2026-05-16,P030,Microwave,Home Appliances,1,150.00,150.00
+1031,William Harris,2026-05-17,P031,Tablet,Electronics,1,420.00,420.00
+1032,Ava Clark,2026-05-17,P032,Sandals,Footwear,2,38.00,76.00
+1033,Benjamin Lewis,2026-05-18,P033,Dining Table,Furniture,1,550.00,550.00
+1034,Charlotte Walker,2026-05-18,P034,School Bag,Bags,3,48.00,144.00
+1035,Henry Hall,2026-05-19,P035,Ceiling Fan,Home Appliances,1,135.00,135.00
